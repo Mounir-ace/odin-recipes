@@ -1,1 +1,1 @@
-# odin-recipes
+This was a good exercise for writing html and working with images and links.
